@@ -6,7 +6,7 @@
       <tr>               <!-- row 1   -->
         <td></td>
         <td>Before starting</td>
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management" target="_blank">Software Requirements and Exercise Data</a></td>
+        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/Software_Data.md" target="_blank">Software Requirements and Exercise Data</a></td>
       </tr>
       <tr>               <!-- row 21   -->
         <td>08:00</td>        <!-- time    -->
