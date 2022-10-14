@@ -25,7 +25,7 @@
       </tr>
       <tr>               <!-- row 19   -->
         <td>10:30</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Morning coffee</a></td>
+        <td>Morning coffee</td>
         <td>Break</td>
       </tr>
       <tr>               <!-- row 4   -->
@@ -35,7 +35,7 @@
       </tr>
       <tr>               <!-- row 11   -->
         <td>12:00</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Lunch</a></td>
+        <td>Lunch</td>
         <td>Break</td>            <!-- content -->
       </tr>
       <tr>               <!-- row 5   -->
@@ -43,8 +43,13 @@
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Data organization and formatting</a></td>        <!-- content -->
         <td>Best practices for the organization of common data types, introduction to TIDY data principles</td>
       </tr>
+      <tr>               <!-- row 11   -->
+        <td>2:00</td>        <!-- time    -->
+        <td>Afternoon coffee</td>
+        <td>Break</td>            <!-- content -->
+      </tr>
       <tr>
-        <td>2:00</td>
+        <td>2:15</td>
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Tips to automate large volumes</a></td>
         <td>How do I handle large volumes of similar information?</td>
       <tr>
@@ -77,7 +82,7 @@
       </tr>
       <tr>               <!-- row 10   -->
         <td>10:00</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Morning coffee</a></td>
+        <td>Morning coffee</td>
         <td>Break</td>
       </tr>
       <tr>               <!-- row 12   -->
@@ -87,7 +92,7 @@
       </tr>
       <tr>               <!-- row 13   -->
         <td>11:30</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Lunch</a></td>
+        <td>Lunch</td>
         <td>Break</td>         <!-- content -->
       </tr>
       <tr>               <!-- row 14   -->
@@ -102,7 +107,7 @@
       </tr>
       <tr>               <!-- row 16   -->
         <td>2:30</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Afternoon Coffee</a></td>
+        <td>Afternoon Coffee</td>
         <td>Break</td><!-- content -->
       </tr>
       <tr>               <!-- row 17   -->
