@@ -1,5 +1,5 @@
-<h3>Day 1</h3>
-<h2>Date and Time TBD</h2>
+<h2>Day 1</h2>
+<h3>Date and Time TBD</h3>
 <div class="row">        <!-- first two days -->
   <div class="col-md-6"> <!-- left column -->
     <table class="table table-striped">
@@ -60,8 +60,8 @@
     </table>
   </div>
 </div>
-<h3>Day 2</h3>
-<h2>Date and Time TBD</h2>
+<h2>Day 2</h2>
+<h3>Date and Time TBD</h3>
 <div>
   <div>
     <table>
