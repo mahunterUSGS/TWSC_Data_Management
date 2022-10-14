@@ -57,8 +57,14 @@
         <td>Finish</td>
         <td></td><!-- content -->
       </tr>
-      <h3>Day 2</h3>
-      <h2>Date and Time TBD</h2>
+    </table>
+  </div>
+</div>
+<h3>Day 2</h3>
+<h2>Date and Time TBD</h2>
+<div>
+  <div>
+    <table>
       <tr>               <!-- row 8   -->
         <td>08:00</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Data organization exercises</a></td>
