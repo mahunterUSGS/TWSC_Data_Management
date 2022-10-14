@@ -2,7 +2,7 @@
 <h2>Day 1</h2>
 <h3>Date and Time TBD</h3>
 <div class="row">        <!-- first two days -->
-  <div class="col-md-6"> <!-- left column -->
+  <div> <!-- left column -->
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
         <td></td>
@@ -69,7 +69,7 @@
 <h2>Day 2</h2>
 <h3>Date and Time TBD</h3>
 <div class="row">
-  <div class="col-md-6">
+  <div>
     <table class="table table-striped">
       <tr>               <!-- row 8   -->
         <td>08:00</td>        <!-- time    -->
