@@ -68,7 +68,6 @@
 </div>
 <h2>Day 2</h2>
 <h3>Date and Time TBD</h3>
-  <div>
     <table class="table table-striped">
       <tr>               <!-- row 8   -->
         <td>08:00</td>        <!-- time    -->
@@ -125,4 +124,3 @@
         <td></td><!-- content -->
       </tr>
     </table>
-  </div>
