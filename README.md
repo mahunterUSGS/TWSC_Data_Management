@@ -2,7 +2,7 @@
 Working repo for NASA TWSC Planetary Data Management Training
 
 ### Timeline
-Course materials are being developed in 2023 for courses to be held in 2024
+Course materials are being developed in 2023 for courses to be held in 2024<br/>
 **[Click here](https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/DOCS/Schedule.md)** for view the course schedule and contents.
 
 ### Scope
