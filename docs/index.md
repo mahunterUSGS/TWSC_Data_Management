@@ -1,8 +1,8 @@
 
 <h2>Day 1</h2>
 <h3>Date and Time TBD</h3>
-<div>        <!-- first two days -->
-  <div> <!-- left column -->
+<div class="row">        <!-- first two days -->
+  <div class="col-md-6"> <!-- left column -->
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
         <td></td>
@@ -42,7 +42,7 @@
       <tr>               <!-- row 5   -->
         <td>12:45</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Data organization and formatting</a></td>        <!-- content -->
-        <td>Best practices for the organization of common data types, introduction to TIDY data principles</td>
+        <td>The organization of common data types, introduction to TIDY data principles</td>
       </tr>
       <tr>               <!-- row 11   -->
         <td>2:00</td>        <!-- time    -->
@@ -68,9 +68,9 @@
 </div>
 <h2>Day 2</h2>
 <h3>Date and Time TBD</h3>
-<div>
-  <div>
-    <table>
+<div class="row">
+  <div class="col-md-6">
+    <table class="table table-striped">
       <tr>               <!-- row 8   -->
         <td>08:00</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Data organization exercises</a></td>
