@@ -19,7 +19,7 @@
         <td>What are the rules and what are my responsibilities when funded?</td>        <!-- content -->
       </tr>
       <tr>               <!-- row 3   -->
-        <td>09:30</td>        <!-- time    -->
+        <td>09:15</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">FAIR Data</a></td>        <!-- content -->
         <td>How FAIR data principles support a realized PDE, data in support of science research, life cycle of data</td>        <!-- content -->
       </tr>
