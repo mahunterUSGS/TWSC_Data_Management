@@ -1,8 +1,8 @@
 
 <h2>Day 1</h2>
 <h3>Date and Time TBD</h3>
-<div class="row">        <!-- first two days -->
-  <div class="col-md-6"> <!-- left column -->
+<div>        <!-- first two days -->
+  <div> <!-- left column -->
     <table class="table table-striped">
       <tr>               <!-- row 1   -->
         <td></td>
