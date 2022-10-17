@@ -72,7 +72,7 @@
     <tr>               <!-- row 9   -->
         <td>09:00</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Format conversion exercises</a></td>
-        <td>How do we translate data into different formats?</td>             <!-- content -->
+        <td>What open formats should we use and how do we translate data between them?</td>             <!-- content -->
     </tr>
     <tr>               <!-- row 10   -->
         <td>10:00</td>        <!-- time    -->
@@ -97,7 +97,7 @@
     <tr>               <!-- row 15   -->
         <td>1:30</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Archiving data</a></td>
-        <td>How to submit archives for common digital repositories</td>          <!-- content -->
+        <td>How to submit archives to a trusted digital repository and index with data.nasa.gov</td>          <!-- content -->
     </tr>
     <tr>               <!-- row 16   -->
         <td>2:30</td>        <!-- time    -->
