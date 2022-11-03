@@ -97,7 +97,7 @@
     <tr>               <!-- row 15   -->
         <td>1:30</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Archiving data</a></td>
-        <td>How to submit archives to a trusted digital repository and index with data.nasa.gov</td>          <!-- content -->
+        <td>What are the options and methods?</td>          <!-- content -->
     </tr>
     <tr>               <!-- row 16   -->
         <td>2:30</td>        <!-- time    -->
@@ -107,7 +107,7 @@
     <tr>               <!-- row 17   -->
         <td>2:45</td>        <!-- time    -->
         <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Indexing data with data.nasa.gov</a></td>
-        <td>What are the options and methods?</td><!-- content -->
+        <td>How to submit archives to a trusted digital repository and index with data.nasa.gov</td><!-- content -->
     </tr>
     <tr>               <!-- row 18   -->
         <td>3:30</td>        <!-- time    -->
