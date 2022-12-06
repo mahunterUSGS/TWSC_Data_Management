@@ -4,7 +4,7 @@
 ### Instructors: Marc Hunter [and other instructors]
 This training event is designed to inform planetary scientists and data managers of their responsibilities when producing data, software or other products under NASA SMD-funded programs. Attendees will also gain experience in best practices for the organization and formatting of common datasets, creating useful metadata, and long-term archiving. No previous knowledge of the concepts or technology used in this course is required.
 
-Attendees are expected to adhere to the [Code of Conduct](link). Violations of the code can be reported directly to the instructors or anonymously with this [webform](link).
+Attendees are expected to adhere to the [Code of Conduct](https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/LESSONS/CodeOfConduct.md). Violations of the code can be reported directly to the instructors or anonymously with this [webform](link).
 
 ## Pre-workshop materials
 [Required software, training data and links](https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/LESSONS/Data_Links.md)
