@@ -6,11 +6,13 @@ This training event is designed to inform planetary scientists and data managers
 
 Attendees are expected to adhere to the [Code of Conduct](link). Violations of the code can be reported directly to the instructors or anonymously with this [webform](link).
 
+## Pre-workshop materials
+[Required software, training data and links](https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/LESSONS/Data_Links.md)
 
-## Schedule
+### Schedule
 
-<h2>Day 1</h2>
-<h3>Date and Time TBD</h3>
+<h3>Day 1</h3>
+<h4>Date and Time TBD</h4>
 <table class="table table-striped">
     <tr>               <!-- row 1   -->
         <td></td>
@@ -72,8 +74,8 @@ Attendees are expected to adhere to the [Code of Conduct](link). Violations of t
     <td></td><!-- content -->
     </tr>
 </table>
-<h2>Day 2</h2>
-<h3>Date and Time TBD</h3>
+<h3>Day 2</h3>
+<h4>Date and Time TBD</h4>
 <table class="table table-striped">
     <tr>               <!-- row 8   -->
         <td>08:00</td>        <!-- time    -->
