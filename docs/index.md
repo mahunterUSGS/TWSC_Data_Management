@@ -9,7 +9,8 @@ Attendees are expected to adhere to the [Code of Conduct](link). Violations of t
 ## Pre-workshop materials
 [Required software, training data and links](https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/LESSONS/Data_Links.md)
 
-### Schedule
+
+## Schedule
 
 <h3>Day 1</h3>
 <h4>Date and Time TBD</h4>
