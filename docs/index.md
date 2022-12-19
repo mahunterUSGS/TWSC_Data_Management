@@ -27,7 +27,7 @@ Attendees are expected to adhere to the [Code of Conduct](https://github.com/mah
     </tr>
     <tr>               <!-- row 2   -->
         <td>08:15</td>        <!-- time    -->
-        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management">Governing Policies and Directives</a></td>        <!-- content -->
+        <td><a href="https://github.com/mahunterUSGS/TWSC_Data_Management/blob/main/LESSONS/Policies.md">Governing Policies and Directives</a></td>        <!-- content -->
         <td>What are the rules and what are my responsibilities when funded?</td>        <!-- content -->
     </tr>
     <tr>               <!-- row 3   -->
