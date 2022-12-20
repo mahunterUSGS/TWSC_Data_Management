@@ -1,4 +1,4 @@
-## Governing Polices and Reference
+## Governing Polices
 
 [OMB M 13-13](https://digital.gov/open-data-policy-m-13-13/) - Open Data Policy, managing information as an asset. Effective October 2016
 
@@ -7,3 +7,7 @@
 [Executive Order 12906](http://www.fgdc.gov/policyandplanning/executive_order) - Established the National Spatial Data Infrastructure, a National Geospatial Data Clearinghouse, spatial data standards, and a National Digital Geospatial Data Framework. Effective 1994, amended 2003
 
 [NASA SMD SPD 41a](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf) - Updated guidance for SMD funded researchers to meet open data requirements 
+
+## What This Means for You
+
+Anyone who receives funding from a public institution is legally obligated to preserve any publications, software or data (collected or produced) in a trusted long-term digital repository, and ensure they are indexed with data.gov. 
