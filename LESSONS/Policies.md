@@ -10,4 +10,4 @@
 
 ## What This Means for You
 
-Anyone who receives funding from a public institution is legally obligated to preserve any publications, software or data (collected or produced) in a trusted long-term digital repository, and ensure they are indexed with data.gov. 
+Anyone who receives funding from a the US government is legally obligated to preserve any publications, software or data (collected or produced) in a trusted long-term digital repository, and ensure they are indexed with data.gov.
