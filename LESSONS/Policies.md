@@ -12,5 +12,5 @@
 
 ## What This Means for You
 
-Anyone who receives funding from a the US government is legally obligated to preserve any publications, software or data (collected or produced) in a trusted long-term digital repository, and ensure they are indexed with data.gov. /n
+Anyone who receives funding from a the US government is legally obligated to preserve any publications, software or data (collected or produced) in a trusted long-term digital repository, and ensure they are indexed with data.gov. <br />
 In addition to meeting the minimum requirements for preservation and accessibility, NASA intends to maximize the impact of products by promoting open standards, machine readability, and reusability.
